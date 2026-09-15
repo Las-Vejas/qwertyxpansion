@@ -2,6 +2,8 @@
 
 This is a keyboard for the [Hackxpansion console](https://github.com/hackclub/hackxpansion). It features a qwerty keyboard, with 4 modifier keys and an LED. The switches are SPST.
 
+I will be making the 3d case later on, as it's very hard to make correctly without the actual PCB.
+
 ## Images
 |![](https://cdn.hackclub.com/01a0a5b6-f7fd-74cf-8aa9-9b4e824f29c9/SCR-20260915-pjyd.png)|![](https://cdn.hackclub.com/01a0a5be-db50-7675-a1ee-1523d01481a5/SCR-20260915-pmst.png)|
 |---|---|
