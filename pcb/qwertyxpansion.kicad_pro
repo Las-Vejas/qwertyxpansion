@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keeb.kicad_pro",
+    "filename": "qwertyxpansion.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -598,12 +598,42 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -643,18 +673,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "keeb.kicad_sch",
-        "name": "keeb",
+        "filename": "qwertyxpansion.kicad_sch",
+        "name": "qwertyxpansion",
         "uuid": "649fc031-0c8c-4ef4-b936-d64aeb71d746"
       }
     ],
-    "used_designators": "R1-3,SW1-33,D1-34,#PWR1-6,J1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "649fc031-0c8c-4ef4-b936-d64aeb71d746",
-      "keeb"
+      "qwertyxpansion"
     ]
   ],
   "text_variables": {},
